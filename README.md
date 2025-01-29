@@ -10,15 +10,15 @@ This is a 20-channel relay module that uses an analog signal as a detector for P
 - Operates with a 24V power supply
 
 ## Schematic
-![Circuit Schematic](image.png)
+![Circuit Schematic](shc.png)
 
 ## PCB
-![Circuit Schematic](image.png) 
+![Circuit Schematic](PCB.png) 
 
 ## Usage
 - Connect the module to a 24V power source.
 - Use analog signals to activate relays.
 - Integrate with PLCs or burglar alarm systems.
 
-## License
-This project is open-source.
+**Designed by Mohammad Mahadi Khaligh**
+To buy a digital version with a microcontroller, contact BASIC card and LAN and LCD along with the microcontroller code. "Also, the project is sent and installed with the case"
