@@ -13,7 +13,7 @@ This is a 20-channel relay module that uses an analog signal as a detector for P
 ![Circuit Schematic](shc.png)
 
 ## PCB
-![Circuit Schematic](PCB (2).png) 
+![Circuit Schematic](PCB(2).png) 
 
 ## Usage
 - Connect the module to a 24V power source.
